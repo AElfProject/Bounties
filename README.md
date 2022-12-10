@@ -18,9 +18,9 @@
 
 ## Gitcoin Bounties
 
-* [Token Bridge: aelf Blockchain <-> EVM Chains](https://gitcoin.co/aelfproject/people)
+* [Token Bridge: aelf Blockchain <-> EVM Chains](https://gitcoin.co/issue/29647)
 
-* [NFT Bridge: aelf Blockchain <-> EVM Chains](https://gitcoin.co/aelfproject/people)
+* [NFT Bridge: aelf Blockchain <-> EVM Chains](https://gitcoin.co/issue/29648)
 
 ## Resources
 
